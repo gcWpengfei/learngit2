@@ -1,6 +1,7 @@
-<<<<<<< Updated upstream
+<<<<<<< HEAD
+
 这是主支的文字
-=======
+
 14123412341242134
 this is my test
 Creating a new branch is quick.
@@ -12,4 +13,7 @@ Creating a new branch is quick and simple.
 12342134
 
 1234123asdfawfsadf
->>>>>>> Stashed changes
+=======
+这是主支的文字这是主支的文字这是主支的文字这是主支的文字
+这是dev分支
+>>>>>>> dev
